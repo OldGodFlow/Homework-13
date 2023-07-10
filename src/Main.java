@@ -5,5 +5,7 @@ public class Main {
         Author bakman = new Author("Фредерик", "Бакман");
         Book anxiousPeople = new Book("Тревожные люди", bakman, 2019);
         anxiousPeople.setYearPublished(2020);
+        System.out.println(yama);
+        System.out.println(akunin);
     }
 }
